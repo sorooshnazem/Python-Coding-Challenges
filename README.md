@@ -1,3 +1,3 @@
 # Python-Coding-Challenges
 
-[Lists](/Lists)
+[Lists](/Lists.ipynb)
